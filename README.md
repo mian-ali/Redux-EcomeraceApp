@@ -10,9 +10,9 @@
      <td>Cart Details Page</td>
   </tr>
   <tr>
-    <td><img src="./Md-Images/Home.png" width=270 height=480></td>
-    <td><img src="./Md-Images/Details.png" width=270 height=480></td>
-    <td><img src="./Md-Images/Cart.png" width=270 height=480></td>
+    <td><img src="Home.png" width=270 height=480></td>
+    <td><img src="Details.png" width=270 height=480></td>
+    <td><img src="Cart.png" width=270 height=480></td>
   </tr>
  </table>
 
