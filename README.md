@@ -10,7 +10,7 @@
      <td>Cart Details Page</td>
   </tr>
   <tr>
-    <td><img src="Home.png" width=270 height=480></td>
+    <td><img src="https://drive.google.com/file/d/12W6SKCxBO0w2FMJKqnL_FOLzaczttgZ-/view?usp=sharing" width=270 height=480></td>
     <td><img src="Details.png" width=270 height=480></td>
     <td><img src="Cart.png" width=270 height=480></td>
   </tr>
